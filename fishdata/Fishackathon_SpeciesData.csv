@@ -1,0 +1,273 @@
+s_id,s_name
+1,Alligator Gar
+2,Almaco Jack
+3,American Eel
+4,American Shad
+5,Apache Trout
+6,Arctic Char
+7,Arctic Grayling
+8,Atlantic Bonito
+9,Atlantic Cod
+10,Atlantic Croaker
+11,Atlantic Halibut
+12,Atlantic Salmon
+13,Atlantic Spadefish
+14,Bigeye Trevally
+15,Bigeye Tuna
+16,Bigmouth Buffalo
+17,Black Bullhead
+18,Black Crappie
+19,Black Drum
+20,Black Grouper
+21,Black Marlin
+22,Black Sea Bass
+23,Black Skipjack
+24,Blackfin Tuna
+25,Blacktip Shark
+26,Blue Catfish
+27,Blue Marlin
+28,Blue Shark
+29,Bluefin Trevally
+30,Bluefin Tuna
+31,Bluefish
+32,Bluegill
+33,Bonefish
+34,Bonnethead Shark
+35,Bowfin
+36,Brook Trout
+37,Broomtail Grouper
+38,Brown Bullhead
+39,Brown Trout
+40,Bull Trout
+41,Burbot
+42,Butterfly Peacock Bass
+43,California Corbina
+44,California Halibut
+45,California Yellowtail
+46,Cero Mackerel
+47,Chain Pickerel
+48,Channel Catfish
+49,Chum Salmon
+50,Cobia
+51,Coho Salmon
+52,Common Carp
+53,Conger
+54,Crevalle Jack
+55,Cubera Snapper
+56,Cutthroat Trout
+57,Dogtooth Tuna
+58,Dolly Varden
+59,Dolphinfish
+60,Flathead Catfish
+61,Florida Gar
+62,Flounder
+63,Freshwater Drum
+64,Gag Grouper
+65,Giant Trevally
+66,Golden Trout
+67,Grass Carp
+68,Great Barracuda
+69,Greater Amberjack
+70,Green Sunfish
+71,Hammerhead Shark
+72,Hogfish
+73,Horse-eye Jack
+74,Inconnu
+75,Kelp Bass
+76,King Mackerel
+78,Ladyfish
+79,Lake Trout
+80,Lake Whitefish
+81,Largemouth Bass
+82,Lingcod
+83,Little Tunny
+84,Longbill Spearfish
+85,Longnose Gar
+86,Mako Shark
+87,Mangrove Snapper
+88,Mountain Whitefish
+89,Muskellunge
+90,Mutton Snapper
+91,Northern Pike
+92,Northern Pikeminnow
+93,Oscar
+94,Pacific Bonito
+95,Pacific Cod
+96,Pacific Crevalle Jack
+97,Pacific Halibut
+98,Pacific Sierra Mackerel
+99,Paddlefish
+100,Permit
+101,Pink Salmon
+102,Pollock
+103,Pompano
+104,Porbeagle Shark
+105,Pumpkinseed Sunfish
+106,Rainbow Runner
+107,Rainbow Trout
+108,Red Drum
+109,Red Grouper
+110,Red Snapper
+111,Redbreast Sunfish
+112,Redear Sunfish
+113,Redeye Bass
+114,Rock Bass
+115,Round Whitefish
+116,Sailfish
+117,Sauger
+118,Saugeye
+119,Scamp Grouper
+120,Sheepshead
+121,Shoal Bass
+122,Shortbill Spearfish
+123,Shorthead Redhorse
+124,Shortnose Gar
+125,Silver Redhorse
+126,Skipjack Tuna
+127,Smallmouth Bass
+128,Smallmouth Buffalo
+129,Snook
+130,Sockeye Salmon
+131,Spanish Mackerel
+132,Speckled Peacock Bass
+133,Splake
+134,Spot
+135,Spotted Bass
+136,Spotted Gar
+137,Spotted Seatrout
+138,Steelhead
+139,Striped Bass
+140,Striped Marlin
+141,Sturgeon
+142,Swordfish
+143,Tarpon
+144,Tautog
+145,Thresher Shark
+146,Tiger Muskellunge
+147,Tiger Shark
+148,Tiger Trout
+149,Tope Shark
+150,Tripletail
+151,Wahoo
+152,Walleye
+153,Warmouth
+154,Weakfish
+155,Whalers Shark
+156,White Bass
+157,White Catfish
+158,White Marlin
+159,White Perch
+160,White Seabass
+161,White Shark
+162,Whiterock Bass
+164,Yellow Bass
+165,Yellow Bullhead
+166,Yellow Perch
+167,Yelloweye Rockfish
+168,Yellowfin Tuna
+169,Yellowtail Snapper
+170,African Pompano
+171,Albacore
+172,BallanWrasse
+173,Barbel
+174,Black Sea Bream
+175,Bleak
+176,Blonde Ray
+178,Bream
+179,Brill
+180,Bull Huss
+181,Chub
+182,Coalfish
+183,Conger eel
+184,Dab
+185,Dover Sole
+186,Eagle Ray
+187,Eel
+188,Grayling
+189,Gudgeon
+190,Ling
+192,Perch
+193,Plaice
+194,Pollack
+195,Ray's Bream
+196,Red Bream
+197,Roach
+198,Rudd
+199,Ruffle
+200,Silver Bream
+201,Smooth Hound
+202,Solenette
+203,Spurdog
+204,Tench
+205,Tope
+206,Turbot
+207,Wels Catfish
+208,Zander
+209,White Crappie
+210,Roanoke Bass
+212,Westslope Cutthroat Trout
+213,Suwannee Bass
+214,Choctaw Bass
+215,Colorado River Cutthroat Trout
+216,Pallid Sturgeon
+220,Palmetto Bass
+221,Orange Spotted Sunfish
+222,Chinook Salmon
+223,White Sturgeon
+224,Humpback Whitefish
+228,Green Sturgeon
+229,Summer Flounder
+232,Arctic Cisco
+233,Starry Flounder
+234,Bonito
+237,Redband Trout
+238,Dolly Varden Trout
+240,Tilapia
+242,Shovelnose Sturgeon
+243,Lake Sturgeon
+244,Blue Sucker
+245,Fallfish
+247,Croaker
+249,Peamouth
+250,Palomino Trout
+251,Snake River Cutthroat Trout
+253,Cusk
+257,Mackerel
+258,Pigfish
+259,Utah Sucker
+260,Guadalupe Bass
+261,Coastal Cutthroat
+262,Grass Pickerel
+263,Spotted Sunfish
+264,Least Cisco
+265,Sacramento Perch
+266,Black Buffalo
+267,Gila Trout
+269,Lahontan Cutthroat Trout
+270,Cuttbow Trout
+272,Hardhead Catfish
+274,Panfish
+275,Bear River Cutthroat
+276,Don't know
+277,Calico Bass
+278,Kokanee Salmon
+280,Peacock Bass
+281,Greenback Cutthroat
+282,Largescale Sucker
+283,Speckled Trout
+286,Sunfish
+288,Kentucky Spotted Bass
+290,White Sucker
+291,Northern Snakehead
+293,Tilefish
+294,Longear Sunfish
+297,Common Snook
+299,Cisco
+300,Southern Flounder
+302,Goldfish
+306,Surfperch
+307,Oyster Toadfish
+310,Northern Sunfish
+314,Broad Whitefish
+316,Atlantic Sturgeon
+317,Hybrid Striped Bass
