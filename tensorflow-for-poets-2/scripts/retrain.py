@@ -1045,6 +1045,9 @@ def main(_):
     validation_writer = tf.summary.FileWriter(
         FLAGS.summaries_dir + '/validation')
 
+    ## CHANGED: get save writer
+    saver = tf.train.Saver()
+
     # Set up all our weights to their initial default values.
     init = tf.global_variables_initializer()
     sess.run(init)
@@ -1138,6 +1141,9 @@ def main(_):
 
     # Write out the trained graph and labels with the weights stored as
     # constants.
+    # CHANGED: Also write .ckpt
+    save_path = saver.save(sess, "/tmp/model.ckpt")
+    print("Saved ckpt to {}".format(save_path))
     save_graph_to_file(sess, graph, FLAGS.output_graph)
     with gfile.FastGFile(FLAGS.output_labels, 'w') as f:
       f.write('\n'.join(image_lists.keys()) + '\n')
